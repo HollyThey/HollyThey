@@ -11,4 +11,6 @@
 
 <h3 align="left">Languages</h3>
 
+
+<h3>Technologies I Use</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hollythey&show_icons=true&locale=en" alt="hollythey" /></p>
